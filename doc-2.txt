@@ -1,0 +1,10 @@
+Diffing is a function that takes two input data sets and outputs the changes between them. 
+git diff is a multi-use Git command that when executed runs a diff function on Git data sources. 
+These data sources can be commits, branches, files and more. 
+
+1. create a local repos to clone a file from master.
+2. goto location.
+3. check the file in local repos.
+4. make the change in file.
+5. check the difference in version.
+6. differenate the difference with color.
