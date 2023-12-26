@@ -1,8 +1,7 @@
 Hello World!
 
-Myself N.Kishore studying in B.Tech (IIIrd year)
+Myself Nanda Kishore studying in B.Tech (IIIrd year)
 in CSE(Honors).
 
-Thanking You, as I have given my introduction.
-
+Thanking You, as I have given my introduction.and in this file, I am going to give the introduction to the file operation in the regarding of the status.
 This file is updating by today only in this stage.
